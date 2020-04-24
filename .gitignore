@@ -3,4 +3,5 @@ venv/
 *.pyo
 *.swp
 *.h5
+*.hdf5
 .ipynb_checkpoints/*
