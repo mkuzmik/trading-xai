@@ -4,4 +4,5 @@ numpy==1.18.3
 tensorflow==2.2.0rc3
 matplotlib==3.2.1
 pandas==1.0.3
-pillow==7.1.1
+pillow==7.1.2
+sklearn==0.0
